@@ -42,5 +42,10 @@ yarn start
 
 Usuario válido para ingresar:
 
+```
 challenge@alkemy.org
+```
+
+```
 pass: react
+```
