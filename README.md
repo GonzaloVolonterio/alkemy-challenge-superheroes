@@ -3,7 +3,7 @@
 ## Heroes App
 
 ```
-Aplicación que permite armar tu propio equipo de superhéroes.
+Aplicación que permite armar tu propio equipo de superheroes.
 Podes buscar ver detalles de los héroes ,opciones para agregar y eliminar miembros de tu equipo, entre otras funcionalidades.
 
 ```

@@ -84,6 +84,7 @@ progress {
   -ms-transform: translateZ(0);
   transform: translateZ(0);
 }
+
 @-webkit-keyframes load5 {
   0%,
   100% {
