@@ -4,7 +4,8 @@
 
 ```
 Aplicación que permite armar tu propio equipo de superhéroes.
-Podes buscar ver detalles de héroes y opciones para agregar y eliminar miembros de tu equipo, entre otras funcionalidades.
+Podes buscar ver detalles de los héroes ,opciones para agregar y eliminar miembros de tu equipo, entre otras funcionalidades.
+
 ```
 
 ### LIBERÍAS
