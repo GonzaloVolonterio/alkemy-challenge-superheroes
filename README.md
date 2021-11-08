@@ -8,7 +8,7 @@ Podes buscar ver detalles de los héroes ,opciones para agregar y eliminar miemb
 
 ```
 
-### LIBERÍAS
+### Librerías
 
 ```
 Control de formularios utilizando Formik.
@@ -16,7 +16,7 @@ Comunicación con las APIs usando AXIOS.
 SweetAlert para el display de mensajes.
 ```
 
-### MAQUETADO
+### Maquetrado
 
 ```
 Bootstrap y Sass.
