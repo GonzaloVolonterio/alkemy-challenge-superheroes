@@ -49,5 +49,5 @@ challenge@alkemy.org
  Contraseña 
  
 ```
-pass: react
+react
 ```
