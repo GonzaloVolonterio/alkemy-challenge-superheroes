@@ -40,12 +40,14 @@ yarn start
 
 ### LOGIN
 
-Usuario válido para ingresar:
+Usuario 
 
 ```
 challenge@alkemy.org
 ```
 
+ Contraseña 
+ 
 ```
 pass: react
 ```
