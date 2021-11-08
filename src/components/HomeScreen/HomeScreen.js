@@ -12,7 +12,7 @@ export const HomeScreen = () => {
       <>
         {!team.length ? (
           <div>
-            <h1>No hay héroes en tu equipo</h1>
+            <h1>No hay heroes en tu equipo</h1>
 
             <Link to='/search' className='btn btn-success mt-4'>
               Buscar
@@ -22,7 +22,7 @@ export const HomeScreen = () => {
           <>
             <TeamStats />
 
-            <h1 className='mt-4 text-center'>Mis héroes</h1>
+            <h1 className='mt-4 text-center'>Mis heroes</h1>
 
             <HeroList heroes={team} />
           </>

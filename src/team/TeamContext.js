@@ -30,7 +30,7 @@ export const TeamProvider = ({ children }) => {
       if (checkMaxGood(team)) {
         return Swal.fire({
           icon: "error",
-          text: "Máximo de 3 héroes de buena alineación",
+          text: "Máximo de 3 heroes de buena alineación",
         });
       }
     }
@@ -39,7 +39,7 @@ export const TeamProvider = ({ children }) => {
       if (checkMaxBad(team)) {
         return Swal.fire({
           icon: "error",
-          text: "Máximo de 3 héroes de mala alineación",
+          text: "Máximo de 3 heroes de mala alineación",
         });
       }
     }

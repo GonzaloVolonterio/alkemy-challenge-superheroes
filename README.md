@@ -25,7 +25,7 @@ Bootstrap y Sass.
 ### Clone repo 🔧
 
 ```
-git clone https://github.com/GonzaloVolonterio/alkemy-superhero-challenge
+git clone https://github.com/GonzaloVolonterio/alkemy-challenge-superheroes
 ```
 
 ### Instalación 🔧
@@ -40,14 +40,14 @@ yarn start
 
 ### LOGIN
 
-Usuario 
+Usuario
 
 ```
 challenge@alkemy.org
 ```
 
- Contraseña 
- 
+Contraseña
+
 ```
 react
 ```
