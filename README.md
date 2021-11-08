@@ -19,7 +19,7 @@ SweetAlert para el display de mensajes.
 ### Maquetrado
 
 ```
-Bootstrap y Sass.
+Bootstrap
 ```
 
 ### Clone repo 🔧
