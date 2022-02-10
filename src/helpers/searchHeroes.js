@@ -4,7 +4,7 @@ export const searchHeroes = (search) => {
   return new Promise((resolve, reject) => {
     axios
       .get(
-        `https://superheroapi.com/api.php/10224968533057285/search/${search}`
+        `https://superheroapi.com/api.php//search/${search}`
       )
       .then(({ data }) => {
         data.response === "success"
