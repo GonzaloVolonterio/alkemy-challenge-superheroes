@@ -7,15 +7,15 @@ Application that allows you to create your own team of superheroes. You can sear
 
 ```
 
-### Librerías
+### Library
 
 ```
-Control de formularios utilizando Formik.
-Comunicación con las APIs usando AXIOS.
-SweetAlert para el display de mensajes.
+Control of forms using Form. 
+Communication with APIs using Axios.
+SweetAlert for message display.
 ```
 
-### Maquetrado
+### Mockup
 
 ```
 Bootstrap
@@ -27,7 +27,7 @@ Bootstrap
 git clone https://github.com/GonzaloVolonterio/alkemy-challenge-superheroes
 ```
 
-### Instalación 🔧
+### Installation🔧
 
 ```
 yarn install
@@ -39,13 +39,13 @@ yarn start
 
 ### LOGIN
 
-Usuario
+User
 
 ```
 challenge@alkemy.org
 ```
 
-Contraseña
+Password
 
 ```
 react
